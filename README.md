@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="madreperola-roxo-curioso png" src="https://github.com/user-attachments/assets/7f026e06-5b97-48f4-be12-add576f106f8" />
+
 
 #🖼 Exemplos | Examples
 
