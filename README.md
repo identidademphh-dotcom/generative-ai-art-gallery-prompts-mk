@@ -31,3 +31,25 @@ EN:I’m Mike, a creative explorer in the AI universe, blending art, imagination
 PT-BR:O uso das imagens e prompts é livre para estudo e inspiração, mas é gentilmente solicitado que seja dado crédito.
 
 EN:The use of images and prompts is free for study and inspiration, but credit is kindly requested.
+
+## 🔷 Visualizador 3D (Atlas v1.7)
+
+Se você quiser abrir o “molde 3D” localmente, use o arquivo:
+
+- `atlas-v1.7-cubo-integrado.html`
+
+### Como acessar
+
+1. No terminal, dentro da pasta do projeto, rode:
+   - `python3 -m http.server 8000`
+2. No navegador, abra:
+   - `http://localhost:8000/atlas-v1.7-cubo-integrado.html`
+
+### O que você vai ver
+
+- Núcleo `CORE` no centro
+- Cubo translúcido (wireframe)
+- Nós primários, médios e externos
+- Linhas de conexão com destaque ao passar o mouse
+- Pulsos de energia nas conexões
+
